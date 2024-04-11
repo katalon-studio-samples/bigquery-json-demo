@@ -5,14 +5,12 @@
   <p align="center">
     A Katalon Studio project to demonstrate how to use JsonUnit to validate BigQuery results.
     <br />
-    <a href="https://github.com/katalon-studio-samples/bigquery-json"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/katalon-studio-samples/bigquery-json-demo"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/katalon-studio-samples/bigquery-json">View Demo</a>
+    <a href="https://github.com/katalon-studio-samples/bigquery-json-demo/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
-    <a href="https://github.com/katalon-studio-samples/bigquery-json/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
-    ·
-    <a href="https://github.com/katalon-studio-samples/bigquery-json/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://github.com/katalon-studio-samples/bigquery-json-demo/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
 </div>
 
@@ -63,7 +61,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone this repo
    ```sh
-   git clone https://github.com/katalon-studio-samples/bigquery-json.git
+   git clone https://github.com/katalon-studio-samples/bigquery-json-demo.git
    ```
 2. Configure your BigQuery JDBC configuration in the Katalon project settings.
 
